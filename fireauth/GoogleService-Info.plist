@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1067324229741-h3t03bg3ofbb6se3cidhrk2dbf1vj0vi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1067324229741-h3t03bg3ofbb6se3cidhrk2dbf1vj0vi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPtmD0UKsuoS9tnbpsQEzuC3H96eR-dw4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1067324229741</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rapser.fireauth</string>
+	<key>PROJECT_ID</key>
+	<string>firetest-c7ffc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firetest-c7ffc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1067324229741:ios:af019c5b88fdf5f00f1764</string>
+	<key>DATABASE_URL</key>
+	<string>https://firetest-c7ffc.firebaseio.com</string>
+</dict>
+</plist>
